@@ -53,7 +53,7 @@ So to answer our original question:
 <br>
 Home Sweet Loan: Can You Afford Your Dream Home?
 <br>
-<em>As home prices freely roam, prepare to earn more to make it your own...
+<em>As home prices freely roam, prepare to earn more to make it your own...</em>
 <br>
 <br>
 # Bibliography
