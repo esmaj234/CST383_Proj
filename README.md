@@ -1,3 +1,6 @@
+#Method Mages
+# Home Sweet Loan: Can You Afford Your Dream Home?
+### By Lenin Canio and Erin Smajdek
 # Introduction
 &nbsp; With the rising cost of housing, it can be difficult for families and individuals to afford to own a home. With house prices and inflation seemingly increasing every year, budgeting to purchase a home seems like a daunting task.
 <br>
