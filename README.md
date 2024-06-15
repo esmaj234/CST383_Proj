@@ -1,4 +1,4 @@
-#Method Mages
+# Method Mages
 # Home Sweet Loan: Can You Afford Your Dream Home?
 ### By Lenin Canio and Erin Smajdek
 # Introduction
