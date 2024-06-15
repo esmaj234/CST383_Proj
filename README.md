@@ -50,8 +50,8 @@ https://www.kaggle.com/datasets/joshhaber/us-real-estate-incomepriceregion-censu
 <br>
 <br>
 So to answer our original question:
-<p style="text-align: center;"><em>Home Sweet Loan: Can You Afford Your Dream Home?</em></p>
-<p style="text-align: center;"><em>As home prices freely roam, prepare to earn more to make it your own...</em></p>
+<em>Home Sweet Loan: Can You Afford Your Dream Home?</em>
+<em>As home prices freely roam, prepare to earn more to make it your own...</em>
 
 <br>
 # Bibliography
