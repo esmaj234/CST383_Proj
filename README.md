@@ -50,9 +50,11 @@ https://www.kaggle.com/datasets/joshhaber/us-real-estate-incomepriceregion-censu
 <br>
 <br>
 So to answer our original question:
-<em>Home Sweet Loan: Can You Afford Your Dream Home?</em>
-<em>As home prices freely roam, prepare to earn more to make it your own...</em>
-
+<br>
+Home Sweet Loan: Can You Afford Your Dream Home?
+<br>
+<em>As home prices freely roam, prepare to earn more to make it your own...
+<br>
 <br>
 # Bibliography
 Down Payment Estimation: https://www.forbes.com/advisor/mortgages/average-down-payment-on-a-house/
